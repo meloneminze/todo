@@ -78,5 +78,8 @@ form button:hover{
 
 .complete-btn{
     background: rosybrown;
+}
 
+todo-item{
+    padding: 0rem 0.5rem;
 }
